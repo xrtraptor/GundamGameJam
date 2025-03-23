@@ -1,0 +1,5 @@
+
+# Ignore Unreal temp and telemetry files
+Saved/
+*.log
+*.json
